@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/mikevandercaaij.github.io/react-homepage.git/static/css/main.dc1d2853.chunk.css",
-    "main.js": "/mikevandercaaij.github.io/react-homepage.git/static/js/main.9ef9b319.chunk.js",
-    "main.js.map": "/mikevandercaaij.github.io/react-homepage.git/static/js/main.9ef9b319.chunk.js.map",
-    "runtime-main.js": "/mikevandercaaij.github.io/react-homepage.git/static/js/runtime-main.13e86223.js",
-    "runtime-main.js.map": "/mikevandercaaij.github.io/react-homepage.git/static/js/runtime-main.13e86223.js.map",
-    "static/js/2.cb653afd.chunk.js": "/mikevandercaaij.github.io/react-homepage.git/static/js/2.cb653afd.chunk.js",
-    "static/js/2.cb653afd.chunk.js.map": "/mikevandercaaij.github.io/react-homepage.git/static/js/2.cb653afd.chunk.js.map",
-    "index.html": "/mikevandercaaij.github.io/react-homepage.git/index.html",
-    "precache-manifest.d0adf8b482eae74c549f4e3d5f9f4eea.js": "/mikevandercaaij.github.io/react-homepage.git/precache-manifest.d0adf8b482eae74c549f4e3d5f9f4eea.js",
-    "service-worker.js": "/mikevandercaaij.github.io/react-homepage.git/service-worker.js",
-    "static/css/main.dc1d2853.chunk.css.map": "/mikevandercaaij.github.io/react-homepage.git/static/css/main.dc1d2853.chunk.css.map",
-    "static/js/2.cb653afd.chunk.js.LICENSE.txt": "/mikevandercaaij.github.io/react-homepage.git/static/js/2.cb653afd.chunk.js.LICENSE.txt",
-    "static/media/svg-5.svg": "/mikevandercaaij.github.io/react-homepage.git/static/media/svg-5.1db4594e.svg",
-    "static/media/svg-6.svg": "/mikevandercaaij.github.io/react-homepage.git/static/media/svg-6.005b4d4d.svg",
-    "static/media/svg-9.svg": "/mikevandercaaij.github.io/react-homepage.git/static/media/svg-9.40e89fd3.svg",
-    "static/media/video.mp4": "/mikevandercaaij.github.io/react-homepage.git/static/media/video.ed44dc5d.mp4"
+    "main.css": "/react-app-homepage/static/css/main.dc1d2853.chunk.css",
+    "main.js": "/react-app-homepage/static/js/main.9ef9b319.chunk.js",
+    "main.js.map": "/react-app-homepage/static/js/main.9ef9b319.chunk.js.map",
+    "runtime-main.js": "/react-app-homepage/static/js/runtime-main.1dfee624.js",
+    "runtime-main.js.map": "/react-app-homepage/static/js/runtime-main.1dfee624.js.map",
+    "static/js/2.373e2c8b.chunk.js": "/react-app-homepage/static/js/2.373e2c8b.chunk.js",
+    "static/js/2.373e2c8b.chunk.js.map": "/react-app-homepage/static/js/2.373e2c8b.chunk.js.map",
+    "index.html": "/react-app-homepage/index.html",
+    "precache-manifest.d0e5d26373441b275a8443780e7bcde0.js": "/react-app-homepage/precache-manifest.d0e5d26373441b275a8443780e7bcde0.js",
+    "service-worker.js": "/react-app-homepage/service-worker.js",
+    "static/css/main.dc1d2853.chunk.css.map": "/react-app-homepage/static/css/main.dc1d2853.chunk.css.map",
+    "static/js/2.373e2c8b.chunk.js.LICENSE.txt": "/react-app-homepage/static/js/2.373e2c8b.chunk.js.LICENSE.txt",
+    "static/media/svg-5.svg": "/react-app-homepage/static/media/svg-5.1db4594e.svg",
+    "static/media/svg-6.svg": "/react-app-homepage/static/media/svg-6.005b4d4d.svg",
+    "static/media/svg-9.svg": "/react-app-homepage/static/media/svg-9.40e89fd3.svg",
+    "static/media/video.mp4": "/react-app-homepage/static/media/video.ed44dc5d.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.13e86223.js",
-    "static/js/2.cb653afd.chunk.js",
+    "static/js/runtime-main.1dfee624.js",
+    "static/js/2.373e2c8b.chunk.js",
     "static/css/main.dc1d2853.chunk.css",
     "static/js/main.9ef9b319.chunk.js"
   ]
